@@ -1,5 +1,5 @@
 spring.application.name=ms-academico
-server.port=8083
+server.port=8084
 
 # Configurações do Banco de Dados
 spring.datasource.url=jdbc:postgresql://localhost:5432/NOME_DO_BANCO
